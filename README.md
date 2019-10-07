@@ -18,4 +18,4 @@ This project about studying the graph applications and the performance of cache 
  
 ### Acknowledgements
 
-I would like to thank prof. Biswa and my fellow classmate Nayan for their help in the project.
+I would like to thank my professor and my fellow classmate Nayan for their help in the project.
